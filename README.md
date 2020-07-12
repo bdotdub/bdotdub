@@ -15,8 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<center>
-<img src="https://web.archive.org/web/20091026214418im_/http://geocities.com/heroes.community/welcome.gif" />
-</center>
+![Welcome to](https://web.archive.org/web/20091026214418im_/http://geocities.com/heroes.community/welcome.gif)
 
-<p style="font-family: Comic Sans, serif">My Github Page</p>
+<h2>My ~*~Github Page~*~</h2>
+
+![Under Construction](https://web.archive.org/web/20091027035610im_/http://es.geocities.com/melgarbeatles6/barraconstruction.gif)
+
+---
+
+- 💍 Looking to join webrings
+
+---
+
+|Github Webring|
+|---|
+|![Github Programming Webring](https://user-images.githubusercontent.com/5719/87251984-b3fd6a00-c43d-11ea-96a7-b597971ba3e4.png)|
+|[[<< Skip Prev]]() \| [[< Prev]]() \| [[Next >]]() \| [[Skip Next >>]]() \| [[Random]]() \| [[List Sites]]()|
