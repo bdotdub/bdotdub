@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **bdotdub/bdotdub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<center>
+<img src="https://web.archive.org/web/20091026214418im_/http://geocities.com/heroes.community/welcome.gif" />
+</center>
+
+<p style="font-family: Comic Sans, serif">My Github Page</p>
